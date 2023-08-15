@@ -1,0 +1,8 @@
+gym==0.18.0 
+numpy==1.20.3 
+torch==1.8.1 
+GPyOpt==1.2.6
+pyyaml
+matplotlib
+Box2D
+tensorboard
